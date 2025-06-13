@@ -1,0 +1,1 @@
+/Users/judosuwidji/Documents/Project/thermal_printer/example/build/app/intermediates/cxx/Debug/6o576q4f/obj/arm64-v8a
